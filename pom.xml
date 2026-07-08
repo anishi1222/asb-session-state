@@ -27,6 +27,7 @@
         <azure.core.version>1.58.1</azure.core.version>
         <azure.core.http.netty.version>1.16.5</azure.core.http.netty.version>
         <azure.identity.version>1.18.4</azure.identity.version>
+        <jackson.databind.version>2.18.8</jackson.databind.version>
         <maven.clean.plugin.version>3.5.0</maven.clean.plugin.version>
         <maven.compiler.plugin.version>3.15.0</maven.compiler.plugin.version>
     </properties>
@@ -37,6 +38,11 @@
                 <groupId>com.azure</groupId>
                 <artifactId>azure-core-http-netty</artifactId>
                 <version>${azure.core.http.netty.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.fasterxml.jackson.core</groupId>
+                <artifactId>jackson-databind</artifactId>
+                <version>${jackson.databind.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
