@@ -13,7 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>25</java.version>
         <mockito.core.version>5.23.0</mockito.core.version>
-        <junit.jupiter.version>6.1.1</junit.jupiter.version>
+        <junit.jupiter.version>6.1.2</junit.jupiter.version>
         <resourceGroup>keyvault</resourceGroup>
         <appServicePlanName>ASP-asb</appServicePlanName>
         <region>japaneast</region>
