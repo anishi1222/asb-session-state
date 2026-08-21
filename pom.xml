@@ -29,7 +29,7 @@
         <azure.identity.version>1.18.4</azure.identity.version>
         <jackson.core.version>2.22.2</jackson.core.version>
         <jackson.databind.version>2.22.2</jackson.databind.version>
-        <netty.codec.dns.version>4.1.137.Final</netty.codec.dns.version>
+        <netty.codec.dns.version>4.2.17.Final</netty.codec.dns.version>
         <maven.clean.plugin.version>3.5.0</maven.clean.plugin.version>
         <maven.compiler.plugin.version>3.15.0</maven.compiler.plugin.version>
     </properties>
