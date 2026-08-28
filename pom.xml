@@ -26,7 +26,7 @@
         <azure.messaging.servicebus.version>7.17.19</azure.messaging.servicebus.version>
         <azure.core.version>1.58.1</azure.core.version>
         <azure.core.http.netty.version>1.16.6</azure.core.http.netty.version>
-        <azure.identity.version>1.18.4</azure.identity.version>
+        <azure.identity.version>1.18.5</azure.identity.version>
         <jackson.core.version>2.22.2</jackson.core.version>
         <jackson.databind.version>2.22.2</jackson.databind.version>
         <netty.codec.dns.version>4.2.17.Final</netty.codec.dns.version>
