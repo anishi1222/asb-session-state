@@ -23,7 +23,7 @@
         <azure.functions.maven.plugin.version>1.42.0</azure.functions.maven.plugin.version>
         <azure.functions.java.library.version>3.3.0</azure.functions.java.library.version>
         <azure.security.java.keyvault.keys.version>4.11.0</azure.security.java.keyvault.keys.version>
-        <azure.messaging.servicebus.version>7.17.19</azure.messaging.servicebus.version>
+        <azure.messaging.servicebus.version>7.17.20</azure.messaging.servicebus.version>
         <azure.core.version>1.58.1</azure.core.version>
         <azure.core.http.netty.version>1.16.6</azure.core.http.netty.version>
         <azure.identity.version>1.18.4</azure.identity.version>
