@@ -25,7 +25,7 @@
         <azure.security.java.keyvault.keys.version>4.11.0</azure.security.java.keyvault.keys.version>
         <azure.messaging.servicebus.version>7.17.20</azure.messaging.servicebus.version>
         <azure.core.version>1.58.1</azure.core.version>
-        <azure.core.http.netty.version>1.16.6</azure.core.http.netty.version>
+        <azure.core.http.netty.version>1.16.7</azure.core.http.netty.version>
         <azure.identity.version>1.18.5</azure.identity.version>
         <jackson.core.version>2.22.2</jackson.core.version>
         <jackson.databind.version>2.22.2</jackson.databind.version>
