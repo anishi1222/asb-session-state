@@ -27,7 +27,7 @@
         <azure.core.version>1.61.0</azure.core.version>
         <azure.core.http.netty.version>1.17.0</azure.core.http.netty.version>
         <azure.identity.version>1.19.0</azure.identity.version>
-        <jackson.core.version>2.22.4</jackson.core.version>
+        <jackson.core.version>2.23.0</jackson.core.version>
         <jackson.databind.version>2.22.4</jackson.databind.version>
         <netty.codec.dns.version>4.2.20.Final</netty.codec.dns.version>
         <maven.clean.plugin.version>3.5.0</maven.clean.plugin.version>
